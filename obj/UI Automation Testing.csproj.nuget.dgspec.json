@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yeabs\\Desktop\\NF\\YU\\YU - Internship - JavaScript 2\\IT122-Group-Assignment\\UI Automation Testing.csproj": {}
+    "C:\\Users\\PC1\\Desktop\\IT122- JavaScript2\\IT122-Group-Assignment\\UI Automation Testing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yeabs\\Desktop\\NF\\YU\\YU - Internship - JavaScript 2\\IT122-Group-Assignment\\UI Automation Testing.csproj": {
+    "C:\\Users\\PC1\\Desktop\\IT122- JavaScript2\\IT122-Group-Assignment\\UI Automation Testing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yeabs\\Desktop\\NF\\YU\\YU - Internship - JavaScript 2\\IT122-Group-Assignment\\UI Automation Testing.csproj",
+        "projectUniqueName": "C:\\Users\\PC1\\Desktop\\IT122- JavaScript2\\IT122-Group-Assignment\\UI Automation Testing.csproj",
         "projectName": "UI Automation Testing",
-        "projectPath": "C:\\Users\\yeabs\\Desktop\\NF\\YU\\YU - Internship - JavaScript 2\\IT122-Group-Assignment\\UI Automation Testing.csproj",
-        "packagesPath": "C:\\Users\\yeabs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yeabs\\Desktop\\NF\\YU\\YU - Internship - JavaScript 2\\IT122-Group-Assignment\\obj\\",
+        "projectPath": "C:\\Users\\PC1\\Desktop\\IT122- JavaScript2\\IT122-Group-Assignment\\UI Automation Testing.csproj",
+        "packagesPath": "C:\\Users\\PC1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC1\\Desktop\\IT122- JavaScript2\\IT122-Group-Assignment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\yeabs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

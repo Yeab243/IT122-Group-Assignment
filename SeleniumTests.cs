@@ -43,11 +43,29 @@ namespace UI_Automation_Testing
 
             Assert.IsTrue(driver.FindElement(By.Id("nav-logo-sprites")).Displayed);
 
+            Thread.Sleep(500);
 
         }
 
-       
+        [Test]
 
+        public void searchingItem()
+
+        {
+
+            driver.Navigate().GoToUrl("https://www.amazon.com/");
+
+            Assert.IsTrue(driver.FindElement(By.Id("nav-logo-sprites")).Displayed);
+
+            Thread.Sleep(500);
+
+            driver.FindElement(By.Id("twotabsearchtextbox")).SendKeys("Iphone 14 Promax case");
+
+            Thread.Sleep(5000);
+
+            driver.FindElement(By.Id("twotabsearchtextbox")).SendKeys(Keys.Enter);
+
+        }
 
         [OneTimeTearDown]
 
