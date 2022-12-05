@@ -65,8 +65,6 @@ namespace UI_Automation_Testing
 
             driver.FindElement(By.Id("twotabsearchtextbox")).SendKeys(Keys.Enter);
 
-            //SendKeys.SendWait(@"{Enter}");
-
         }
 
         [OneTimeTearDown]
